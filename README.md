@@ -3,6 +3,12 @@
 Um aplicativo moderno para **monitoramento de criptomoedas** desenvolvido em **Jetpack Compose**, que consome dados em tempo real de múltiplas APIs.
 
 ---
+## 👩‍💻 Desenvolvedores
+
+- **Cíntia Cristina Braga Angelo** — RM552253  
+- **Henrique Mosseri** — RM552240  
+
+---
 
 ## 📸 Capturas de Tela
 
